@@ -1,0 +1,5 @@
+{
+  "name": "inline-image",
+  "version": "0.1.1",
+  "description": "Show PNG images inline in the chat, under the Read call that opened them"
+}

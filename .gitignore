@@ -1,0 +1,6 @@
+# Claude Code writes these into each mod every time it loads one.
+**/.claude-plugin/types/
+mods/*/tsconfig.json
+
+# Intermediate demo fixtures and recordings.
+docs/demos/.generated/

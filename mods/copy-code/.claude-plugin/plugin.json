@@ -1,0 +1,5 @@
+{
+  "name": "copy-code",
+  "version": "0.1.0",
+  "description": "A copy button under each fenced code block in assistant replies, plus /copy-code"
+}
